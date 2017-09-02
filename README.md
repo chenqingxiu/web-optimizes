@@ -1,5 +1,5 @@
 ## 网站性能优化项目
-本项目为Udacity前端开发纳米学位的作业，旨在优化网页的速度。
+本项目旨在优化网页的速度。
 
 ### 测试步骤：
 #### Part 1: 优化 index.html 的 PageSpeed Insights 得分
